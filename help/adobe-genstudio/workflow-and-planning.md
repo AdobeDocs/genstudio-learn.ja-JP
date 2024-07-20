@@ -1,6 +1,6 @@
 ---
-title: ワークフローと計画 — 作業を合理化し、迅速化
-description: コンテンツの作成と完了を計画するプロセスを通じて、コンテンツ要件の接続と追跡に苦労する企業向けです。 プロジェクト間での効果的なプロセス、計画、承認、データの一貫性が欠如しているため、この企業の生産性と効率性の両方のコンテンツ・サプライ・チェーンが奪われています。
+title: ワークフローと計画 – 作業の合理化と迅速化
+description: 計画プロセスを通じてコンテンツの作成と完了に至るまで、コンテンツ要件を結び付けて追跡することに苦労している企業の場合。 プロジェクト全体にわたって効果的なプロセス、計画、承認、データの整合性が欠如しているため、この企業のコンテンツ・サプライ・チェーンでは、生産性と効率性の両方が損なわれています。
 solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud, Workfront
 feature: Workflow, Asset Management, Asset Processing, Collaboration, Share, People Teams and Groups, Work Management, Gen AI
@@ -12,16 +12,16 @@ jira: KT-14154
 source-git-commit: 3ded5e478ae37a582bd570fa0b6bf89a81d7580d
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 26%
+ht-degree: 27%
 
 ---
 
 
-# ワークフローと計画：作業を合理化し、迅速化
+# ワークフローと計画：作業の合理化と迅速化
 
-これは、企画、実稼働、完了まで、コンテンツ要件の接続と追跡に苦労している企業向けのものです。 プロジェクト間での効果的なプロセス、計画、承認、データの一貫性が欠如しているため、この企業の生産性と効率性の両方のコンテンツ・サプライ・チェーンが奪われています。
+これは、コンテンツ要件を計画、制作、完了まで関連付けて追跡するのに苦労している会社のためのものです。 プロジェクト全体にわたって効果的なプロセス、計画、承認、データの整合性が欠如しているため、この企業のコンテンツ・サプライ・チェーンでは、生産性と効率性の両方が損なわれています。
 
-計画とAdobeに使用されるワークフローソリューションは、次のとおりです。
+計画とワークフローに使用されるAdobeソリューション：
 
 <table>
     <tr style="border: 0;">
@@ -43,33 +43,33 @@ ht-degree: 26%
 ## プライマリビジネスの使用例
 
 * ワークフローと承認を簡素化
-* 費用とリソースを最適化
-* 容量、プロジェクト、リスク、タイムラインの可視性を向上
-* メタデータのタグ付けなど、下流のプロセスを自動化
+* 費用とリソースの最適化
+* 処理能力、プロジェクト、リスク、タイムラインの可視性を向上
+* メタデータタグ付けなどのダウンストリームプロセスの自動化
 
-## 推奨コース
+## おすすめのコース
 
 <table style="margin-top:0 !important">
     <tr>
       <td style="width:33%">
         <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" target="_blank">
-          <img alt="AEM Assets Essentials 使用の手引き" src="https://cdn.experienceleague.adobe.com/thumb/getting-started-with-assets-essentials.png">
+          <img alt="AEM Assets Essentials の概要" src="https://cdn.experienceleague.adobe.com/thumb/getting-started-with-assets-essentials.png">
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" target="_blank">
-        <strong>AEM Assets Essentials 使用の手引き</strong></a>
-        <p class="is-size-7 recs-limit-description">AEM Assets Essentials で組織のアセット管理を合理化する方法を説明します。</p>
+        <strong>AEM Assets Essentials の概要 </strong></a>
+        <p class="is-size-7 recs-limit-description">AEM Assets Essentials で組織のアセット管理を効率化する方法を説明します。</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span></a></p>
         </div>
       </td>
       <td style="width:33%">
         <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-          <img alt="「管理者用のAEM Assetsの設定」チュートリアルのサムネール画像" src="https://cdn.experienceleague.adobe.com/thumb/configuring-aem-assets-for-administrators.jpg">
+          <img alt="「AEM Assets for Administrators の設定」チュートリアルのサムネール画像" src="https://cdn.experienceleague.adobe.com/thumb/configuring-aem-assets-for-administrators.jpg">
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-        <strong>管理者用のAEM Assetsの設定</strong></a>
-        <p class="is-size-7 recs-limit-description">ベースラインコンテンツアーキテクチャと分類の設定から、メタデータとアセット処理のカスタマイズに至るまで、主要な懸念事項を設定し、AEM Assets実装の基盤を確立する方法を説明します。</p>
+        <strong>AEM Assets for Administrators の設定 </strong></a>
+        <p class="is-size-7 recs-limit-description">ベースラインコンテンツアーキテクチャや分類の設定からメタデータやアセット処理のカスタマイズに至るまで、中心的事項を設定して、AEM Assets実装のための強固な基盤を確立する方法を説明します。</p>
         </div>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span></a></p>
       </td>
@@ -90,12 +90,12 @@ ht-degree: 26%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Adobe Workfront と AEM Assets Essentials の統合">Adobe WorkfrontとAEM Assets Essentials の統合</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Adobe Workfront と AEM Assets Essentials の統合">Adobe WorkfrontとAEM Assets Essentials の統合 </a>
           </p>
           <p class="is-size-6"><em>Workfront と AEM Assets Essentials を統合して、クリエイティブワークフローの管理を効率化する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
       </a>
     </div>
   </div>
@@ -111,12 +111,12 @@ ht-degree: 26%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Adobe Workfront プラグインを使用して Creative Cloud と統合">Adobe Workfrontプラグインを使用したCreative Cloudとの統合</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Adobe Workfront プラグインを使用して Creative Cloud と統合">Adobe Workfront プラグインを使用してCreative Cloudと統合する </a>
           </p>
-          <p class="is-size-6"><em>WorkfrontをCreative Cloudと統合して、Adobe Creative Cloudを離れることなく、割り当てられた作業を見つけ、更新します。</em></p>
+          <p class="is-size-6"><em>WorkfrontとCreative Cloudを統合すると、Adobe Creative Cloudを離れることなく、自分に割り当てられた作業を見つけて更新できます。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -132,12 +132,12 @@ ht-degree: 26%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja" title="Adobe WorkfrontとAEM Assets Essentials の設定">Adobe WorkfrontとAEM Assets Essentials の設定</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja" title="Adobe WorkfrontとAEM Assets Essentials の設定">Adobe WorkfrontとAEM Assets Essentials の設定 </a>
           </p>
-          <p class="is-size-6"><em>Adobe WorkfrontとAssets Essentialsの統合を設定する方法を説明します</em></p>
+          <p class="is-size-6"><em>Adobe WorkfrontとAssets Essentialsの統合を設定する方法について説明します</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -153,12 +153,12 @@ ht-degree: 26%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=ja" title="Workfront 拡張コネクタの基本">Workfront enhanced connector の基本</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=ja" title="Workfront 拡張コネクタの基本">Workfront拡張コネクタの基本 </a>
           </p>
           <p class="is-size-6"><em>Adobe Workfront および Experience Manager Assets 拡張コネクタの基本について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -174,12 +174,12 @@ ht-degree: 26%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="拡張コネクタを使用した Workfront と AEM Assets の統合">WorkfrontとAEM Assetsの拡張コネクタとの統合</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="拡張コネクタを使用した Workfront と AEM Assets の統合">WorkfrontとAEM Assetsを拡張コネクタと統合する </a>
           </p>
-          <p class="is-size-6"><em>拡張コネクタを使用したWorkfrontとAEM Assetsの統合に関する 4 部構成のビデオシリーズです。</em></p>
+          <p class="is-size-6"><em>拡張コネクタを使用したWorkfrontとAEM Assetsの統合に関する 4 部構成のビデオシリーズ</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -261,7 +261,7 @@ ht-degree: 26%
 
 ## その他のリソース
 
-* [Experience Leagueイベント](https://experienceleague.adobe.com/events/)
+* [Experience League イベント ](https://experienceleague.adobe.com/events/)
 * [Adobe [!DNL GenStudio] business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
-* [Adobe [!DNL GenStudio] リソースガイド](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
-* [コンテンツサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe [!DNL GenStudio]  リソースガイド ](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
+* [ コンテンツのサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
